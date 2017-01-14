@@ -1,0 +1,2 @@
+This is a new txt-file
+This is som changes to the file.
