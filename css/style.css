@@ -9,8 +9,8 @@
 
 
 h1,h2,h3,h4,h5,h6,p,ul li{
-	padding:0px;
-	margin:0px;
+	padding:1px;
+	margin:2px;
 }
 
 
@@ -46,7 +46,7 @@ ul li{
 
 .logo h1 a{
 	display:block;
-	width:256px;
+	width:254px;
 	height:147px;
 	background:url(../images/gonzo.png) no-repeat;
 	margin:0 auto;
@@ -56,6 +56,7 @@ ul li{
 .navigation{
 	padding:0px;
 	text-align:center;
+	margin:5px;
 }
 
 .navigation ul li{
